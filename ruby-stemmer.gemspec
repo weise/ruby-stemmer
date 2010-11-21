@@ -29,7 +29,6 @@ Gem::Specification.new do |s|
      "libstemmer_c/Makefile.windows",
      "libstemmer_c/README",
      "libstemmer_c/examples/stemwords.c",
-     "libstemmer_c/foo.txt",
      "libstemmer_c/include/libstemmer.h",
      "libstemmer_c/libstemmer/libstemmer.c",
      "libstemmer_c/libstemmer/libstemmer_utf8.c",
